@@ -1,1 +1,90 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podium Placeholder</title>
+    <description>
+      <![CDATA[A placeholder rss feed for podium.]]>
+    </description>
+    <managingEditor>admin@bitelixir.co (Bit Elixir)</managingEditor>
+    <generator>static</generator>
+    <atom:link href="https://github.com/BitElixir/podium/blob/master/placeholder.rss" rel="self" type="application/rss+xml"/>
+    <link>https://github.com/BitElixir/podium/blob/master/placeholder.rss</link>
+    <itunes:new-feed-url>https://github.com/BitElixir/podium/blob/master/placeholder.rss</itunes:new-feed-url>
+    <itunes:owner>
+      <itunes:name>Bit Elixir</itunes:name>
+      <itunes:email>admin@bitelixir.co</itunes:email>
+    </itunes:owner>
+    <itunes:author>Bit Elixir</itunes:author>
+    <itunes:summary>
+      <![CDATA[A placeholder rss feed for podium.]]>
+    </itunes:summary>
+    <language>en</language>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Education"/>
+    <itunes:keywords>placeholder</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="http://bitelixir.co/assets/images/BE-flat-3C-v2.png"/>
+    <image>
+      <url>https://via.placeholder.com/300x160</url>
+      <link>https://github.com/BitElixir/podium/blob/master/placeholder.rss</link>
+      <title>Podium Placeholder</title>
+    </image>
+	<item>
+      <title>First Episode</title>
+      <description>
+        <![CDATA[A first placeholder episode.]]>
+      </description>
+      <itunes:title>First Episode</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>A first placeholder episode.</itunes:summary>
+      <content:encoded>
+        <![CDATA[A first placeholder episode.]]>
+      </content:encoded>
+      <guid isPermaLink="false">0123456789_1</guid>
+      <pubDate>Sat, 1 Dec 2018 00:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://via.placeholder.com/300x160"/>
+      <itunes:keywords>placeholder</itunes:keywords>
+      <itunes:duration>00:2:12</itunes:duration>
+      <enclosure url="http://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_5MG.mp3" type="audio/mpeg" length="3915464"/>
+    </item>
+	<item>
+      <title>Second Episode</title>
+      <description>
+        <![CDATA[A second placeholder episode.]]>
+      </description>
+      <itunes:title>Second Episode</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>A second placeholder episode.</itunes:summary>
+      <content:encoded>
+        <![CDATA[A second placeholder episode.]]>
+      </content:encoded>
+      <guid isPermaLink="false">0123456789_1</guid>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://via.placeholder.com/300x160"/>
+      <itunes:keywords>placeholder</itunes:keywords>
+      <itunes:duration>00:2:12</itunes:duration>
+      <enclosure url="http://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_5MG.mp3" type="audio/mpeg" length="3915464"/>
+    </item>
+	<item>
+      <title>Third Episode</title>
+      <description>
+        <![CDATA[A third placeholder episode.]]>
+      </description>
+      <itunes:title>Third Episode</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>A third placeholder episode.</itunes:summary>
+      <content:encoded>
+        <![CDATA[A third placeholder episode.]]>
+      </content:encoded>
+      <guid isPermaLink="false">0123456789_1</guid>
+      <pubDate>Thu, 3 Jan 2019 00:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://via.placeholder.com/300x160"/>
+      <itunes:keywords>placeholder</itunes:keywords>
+      <itunes:duration>00:2:12</itunes:duration>
+      <enclosure url="http://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_5MG.mp3" type="audio/mpeg" length="3915464"/>
+    </item>
+  </channel>
+</rss>
